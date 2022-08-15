@@ -1,2 +1,2 @@
 # TributePage
-Tribute Page is  the second assignment on the Free Code Camp Responsive Web Design curriculum
+Tribute Page made with HTML and CSS and it is the 3rd Free Code Camp Assignment in the Responsive Web Design curriculum.
